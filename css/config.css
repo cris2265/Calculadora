@@ -1,0 +1,10 @@
+* {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poetsen One", sans-serif; 
+}
+body {
+    font-size: 10px;
+    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+}
